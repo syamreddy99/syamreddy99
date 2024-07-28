@@ -4,10 +4,10 @@
 <img src="https://avatars.githubusercontent.com/u/141808145?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50px ;">
 
 ## About Me
-🎓 Bachelor of Technology in Electronics and Communication Engineering from Kakinada Institute of Engineering and Technology, Hyderabad
-🌱 I’m currently learning Java Fullstack course 
-💡 Passionate about Backend Devlopment , Web Development, and solving real-world problems  
-🌟 Dynamic and motivated individual with proficiency in Java, HTML, CSS, JavaScript, and MySQL seeking a challenging role where I can leverage my programming skills to contribute effectively to a dynamic team
+- 🎓 Bachelor of Technology in Electronics and Communication Engineering from Kakinada Institute of Engineering and Technology, Hyderabad.
+- 🌱 I’m currently learning Java Fullstack course .
+- 💡 Passionate about Backend Devlopment , Web Development, and solving real-world problems.  
+- 🌟 Dynamic and motivated individual with proficiency in Java, HTML, CSS, JavaScript, and MySQL seeking a challenging role where I can leverage my programming skills to contribute effectively to a dynamic team
 
 ## 🔧 Technologies & Tools
 - **Programming:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
