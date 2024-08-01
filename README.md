@@ -23,10 +23,10 @@
 - Spring, SpringBoot
 
 ### Soft Skills
-- Problem-solving
-- Time management
-- Communication
-- Collaboration
+- 🧩Problem-solving
+- ⏰Time management
+- 🗣️Communication
+- 🤝Collaboration
 
 ## 📚 Projects
 
