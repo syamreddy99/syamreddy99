@@ -3,8 +3,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/141808145?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50px ;">
 
-## About Me
-- 🎓 Bachelor of Technology in Electronics and Communication Engineering from Kakinada Institute of Engineering and Technology, Hyderabad.
+## About Me😊
+- 🎓 Bachelor of Technology in Electronics and Communication Engineering from Kakinada Institute of Engineering and Technology, Kakinada , AndhraPradesh.
 - 🌱 I’m currently learning Java Fullstack course .
 - 💡 Passionate about Backend Devlopment , Web Development, and solving real-world problems.  
 - 🌟 Dynamic and motivated individual with proficiency in Java, HTML, CSS, JavaScript, and MySQL seeking a challenging role where I can leverage my programming skills to contribute effectively to a dynamic team
@@ -36,7 +36,7 @@
 - **Description:** 
   The IoT-based sound pollution monitoring system is designed to measure and monitor environmental noise levels using a NodeMCU microcontroller. A microphone sensor captures sound from the surroundings and converts it into electrical signals, which are processed by the NodeMCU to determine the sound level in decibels (dB). Utilizing its built-in Wi-Fi, the NodeMCU sends this data to an online server or cloud platform, where it can be logged and monitored in real-time via a web interface or mobile app. The system can also trigger alerts if noise levels exceed predefined thresholds, enabling timely interventions. This technology facilitates continuous and efficient monitoring of sound pollution, aiding efforts to create quieter and healthier environments in various settings such as residential areas, industrial zones, and public spaces.
 
-### 💻 Personal Project: Skin Care Product Website
+### 💻 Personal Project: Skin Care Product Rating  Website
 - **Technologies:** HTML, CSS, JavaScript, Bootstrap, JQuery (AJAX), Java, JDBC, Servlets, MVC Architecture, MySQL
 - **Description:**
   We created a website that consolidates various skincare products into one platform. Users can browse and search for skincare products, with filters available for different categories and price ranges. The website includes a login page, and after logging in, users are greeted with a personalized welcome message displaying their name. There is also an admin page that allows administrators to add new products to the customer-facing page. This project aims to provide a seamless and efficient way for users to find and purchase skincare products, while also offering robust management tools for administrators.
@@ -88,7 +88,7 @@ I enjoy solving complex coding problems and often spend my weekends participatin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syamreddy99&color=blueviolet&style=flat)
 
-💞️ I’m looking to collaborate on Frontend Engineers
+💞️ I’m looking to collaborate on Freelance Projects.
 
 <!---
 syamreddy99/syamreddy99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
